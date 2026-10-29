@@ -4,6 +4,8 @@ Third-year high school student from Slovakia, passionate about computers at the 
 
 🌐 **Portfolio:** [krivanikm.github.io](https://krivanikm.github.io)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/krivanikm/badge.svg)](https://hub.xerj.org/contributors/krivanikm)
+
 ---
 
 ## 🛠️ What I'm working on
